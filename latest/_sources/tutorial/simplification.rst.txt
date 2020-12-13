@@ -509,7 +509,7 @@ We also see that `\log{\left( e^x \right)} = x` comes from `\log{\left( e^x
 \right)} = x\log(e) = x`, and thus holds when `x` is real (and it can be
 verified that it does not hold in general for arbitrary complex `x`, for
 example, `\log{\left(e^{x + 2\pi i}\right)} = \log{\left(e^x\right)} = x
-\neq x + 2\pi i`).
+\neq x + 2\pi i`.
 
 expand_log
 ----------
